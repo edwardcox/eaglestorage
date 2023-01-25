@@ -4,9 +4,9 @@
     "url": "https://eaglestorage.com.au",
     "icon": "https://eaglestorage.com.au/wp-content/uploads/2021/05/eaglelogoTRANS.png",
     "slug": "eaglestorage-com-au",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
@@ -16,6 +16,7 @@
     "timeMonth": 801,
     "timeYear": 698,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-06-17": 20,
       "2022-06-16": 444
     }
