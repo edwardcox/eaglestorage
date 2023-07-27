@@ -6,17 +6,16 @@
     "slug": "eaglestorage-com-au",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 886,
-    "timeDay": 776,
-    "timeWeek": 1260,
-    "timeMonth": 1221,
-    "timeYear": 908,
+    "timeDay": 705,
+    "timeWeek": 887,
+    "timeMonth": 1214,
+    "timeYear": 909,
     "dailyMinutesDown": {
-      "2023-07-26": 11,
       "2023-04-13": 15,
       "2023-02-17": 21
     }
@@ -33,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 127,
-    "timeWeek": 137,
+    "timeDay": 77,
+    "timeWeek": 138,
     "timeMonth": 152,
-    "timeYear": 164,
+    "timeYear": 163,
     "dailyMinutesDown": {
       "2023-01-21": 17
     }
@@ -53,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 8,
-    "timeDay": 6,
-    "timeWeek": 6,
+    "timeDay": 3,
+    "timeWeek": 7,
     "timeMonth": 7,
     "timeYear": 8,
     "dailyMinutesDown": {}
@@ -71,7 +70,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 7,
-    "timeDay": 6,
+    "timeDay": 1,
     "timeWeek": 6,
     "timeMonth": 7,
     "timeYear": 7,
