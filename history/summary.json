@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
-    "time": 1506,
-    "timeDay": 3840,
-    "timeWeek": 3636,
-    "timeMonth": 3720,
-    "timeYear": 1876,
+    "time": 1509,
+    "timeDay": 3530,
+    "timeWeek": 3594,
+    "timeMonth": 3740,
+    "timeYear": 1884,
     "dailyMinutesDown": {
       "2023-11-14": 16,
       "2023-11-10": 20,
@@ -41,10 +41,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 159,
-    "timeDay": 82,
+    "time": 158,
+    "timeDay": 111,
     "timeWeek": 132,
-    "timeMonth": 118,
+    "timeMonth": 119,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2023-11-10": 151,
@@ -58,35 +58,39 @@
     "url": "8.8.4.4",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/800px-Google_%22G%22_Logo.svg.png",
     "slug": "google-dns-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 7,
-    "timeDay": 2,
+    "timeDay": 6,
     "timeWeek": 4,
     "timeMonth": 3,
     "timeYear": 7,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 0
+    }
   },
   {
     "name": "Google DNS 2",
     "url": "8.8.8.8",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/800px-Google_%22G%22_Logo.svg.png",
     "slug": "google-dns-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6,
-    "timeDay": 2,
+    "timeDay": 6,
     "timeWeek": 4,
     "timeMonth": 4,
     "timeYear": 7,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 0
+    }
   }
 ]
