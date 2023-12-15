@@ -8,13 +8,13 @@
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1509,
-    "timeDay": 3530,
-    "timeWeek": 3594,
-    "timeMonth": 3740,
-    "timeYear": 1884,
+    "time": 1514,
+    "timeDay": 3614,
+    "timeWeek": 3614,
+    "timeMonth": 3537,
+    "timeYear": 1891,
     "dailyMinutesDown": {
       "2023-11-14": 16,
       "2023-11-10": 20,
@@ -42,8 +42,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 158,
-    "timeDay": 111,
-    "timeWeek": 132,
+    "timeDay": 117,
+    "timeWeek": 129,
     "timeMonth": 119,
     "timeYear": 160,
     "dailyMinutesDown": {
@@ -59,18 +59,19 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/800px-Google_%22G%22_Logo.svg.png",
     "slug": "google-dns-1",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.82%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.68%",
+    "uptimeMonth": "96.71%",
+    "uptimeYear": "99.73%",
     "time": 7,
-    "timeDay": 6,
+    "timeDay": 0,
     "timeWeek": 4,
     "timeMonth": 3,
     "timeYear": 7,
     "dailyMinutesDown": {
-      "2023-12-14": 2
+      "2023-12-15": 65,
+      "2023-12-14": 1378
     }
   },
   {
@@ -79,18 +80,19 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/800px-Google_%22G%22_Logo.svg.png",
     "slug": "google-dns-2",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.82%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.68%",
+    "uptimeMonth": "96.71%",
+    "uptimeYear": "99.73%",
     "time": 6,
-    "timeDay": 6,
+    "timeDay": 0,
     "timeWeek": 4,
     "timeMonth": 4,
     "timeYear": 7,
     "dailyMinutesDown": {
-      "2023-12-14": 2
+      "2023-12-15": 65,
+      "2023-12-14": 1378
     }
   }
 ]
