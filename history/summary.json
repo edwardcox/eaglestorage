@@ -10,11 +10,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.89%",
-    "time": 3434,
-    "timeDay": 5042,
-    "timeWeek": 3341,
-    "timeMonth": 2742,
-    "timeYear": 3695,
+    "time": 3431,
+    "timeDay": 4917,
+    "timeWeek": 3326,
+    "timeMonth": 2721,
+    "timeYear": 3693,
     "dailyMinutesDown": {
       "2024-11-08": 17,
       "2024-10-26": 52,
@@ -35,8 +35,7 @@
       "2024-01-12": 18,
       "2023-12-30": 61,
       "2023-12-18": 20,
-      "2023-11-14": 16,
-      "2023-11-10": 20
+      "2023-11-14": 16
     }
   },
   {
@@ -51,13 +50,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 169,
-    "timeDay": 354,
-    "timeWeek": 276,
-    "timeMonth": 228,
+    "timeDay": 169,
+    "timeWeek": 279,
+    "timeMonth": 223,
     "timeYear": 174,
-    "dailyMinutesDown": {
-      "2023-11-10": 151
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google DNS 1",
