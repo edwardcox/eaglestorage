@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 3314,
     "dailyMinutesDown": {
-      "2025-04-15": 969,
+      "2025-04-15": 996,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -103,19 +103,19 @@
     "url": "https://cloudflare.com",
     "icon": "https://download.logo.wine/logo/Cloudflare/Cloudflare-Logo.wine.png",
     "slug": "cloud-flare-dns-and-cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 226,
-    "timeDay": 523,
-    "timeWeek": 548,
-    "timeMonth": 620,
-    "timeYear": 255,
+    "timeDay": 482,
+    "timeWeek": 535,
+    "timeMonth": 615,
+    "timeYear": 256,
     "dailyMinutesDown": {
-      "2025-04-15": 0
+      "2025-04-15": 27
     }
   },
   {
