@@ -1,7 +1,7 @@
 url: https://cloudflare.com
-status: up
-code: 200
-responseTime: 300
-lastUpdated: 2026-02-14T23:31:05.634Z
+status: down
+code: 403
+responseTime: 213
+lastUpdated: 2026-02-15T13:10:10.959Z
 startTime: 2022-06-16T07:17:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
