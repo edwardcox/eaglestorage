@@ -5,7 +5,7 @@
     "icon": "https://eaglestorage.com.au/wp-content/uploads/2021/05/eaglelogoTRANS.png",
     "slug": "eaglestorage-com-au",
     "status": "down",
-    "uptime": "61.01%",
+    "uptime": "60.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-23": 223,
+      "2026-10-24": 217,
+      "2026-10-23": 1440,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -379,8 +380,7 @@
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
-      "2025-10-25": 1440,
-      "2025-10-24": 1440
+      "2025-10-25": 1440
     }
   },
   {
@@ -394,10 +394,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 599,
-    "timeDay": 92,
-    "timeWeek": 192,
-    "timeMonth": 245,
+    "time": 598,
+    "timeDay": 409,
+    "timeWeek": 210,
+    "timeMonth": 248,
     "timeYear": 487,
     "dailyMinutesDown": {
       "2025-12-05": 31,
@@ -417,8 +417,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 3,
-    "timeWeek": 7,
+    "timeDay": 11,
+    "timeWeek": 8,
     "timeMonth": 7,
     "timeYear": 5,
     "dailyMinutesDown": {}
@@ -435,8 +435,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 2,
-    "timeWeek": 7,
+    "timeDay": 11,
+    "timeWeek": 8,
     "timeMonth": 8,
     "timeYear": 6,
     "dailyMinutesDown": {}
